@@ -1,6 +1,6 @@
 # C Personal Diary 
 
-One of the best C programming language projects, mini project in C Personal Diary Management System is a console application without graphics. In this project, user can keep their personal record like they do in a diary. You can keep records of the important things you do in your daily life, like meetings and various other tasks.
+One of the C programming language mini project in C Personal Diary Management System is a console application without graphics. In this project, user can keep their personal record like they do in a diary. You can keep records of the important things you do in your daily life, like meetings and various other tasks.
 
 The basic user-defined functions used in this project are listed below:
 
