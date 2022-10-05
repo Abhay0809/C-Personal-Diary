@@ -20,8 +20,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = Abhay0809/C-Personal-Diary"/>
-</a>
+## Contributions
 
-Made with [contributors-img](https://contrib.rocks).
+<a href="https://github.com/Abhay0809/C-Personal-Diary/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Abhay0809/C-Personal-Diary" />
+</a>
