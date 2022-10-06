@@ -31,8 +31,11 @@ In C Personal Diary Management System is a console application without graphics 
    ************************************************************************************
 
 Abhay Anand        |    [Abhay0809]      | [https://github.com/Abhay0809]
+
 Ujjwal Kumar       |    [masteryodaa]    | [https://github.com/masteryodaa]
+
 Suman Chaurasiya   |  [sumanchaurasiya]  | [https://github.com/sumanchaurasiya]
+
 Samir Kumar        |     [SAMIR897]      | [https://github.com/SAMIR897]
 
 ## License---------
