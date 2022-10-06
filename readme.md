@@ -38,6 +38,8 @@ Suman Chaurasiya   |  [sumanchaurasiya]  | [https://github.com/sumanchaurasiya]
 
 Samir Kumar        |     [SAMIR897]      | [https://github.com/SAMIR897]
 
+Rohit kumar        |      [ROHZZZ]       | [https://github.com/ROHZZZ]
+
 ## License---------
 *******************************************************************************
 
