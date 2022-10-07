@@ -40,6 +40,8 @@ Samir Kumar        |     [SAMIR897]      | [https://github.com/SAMIR897]
 
 Rohit kumar        |      [ROHZZZ]       | [https://github.com/ROHZZZ]
 
+Aamir Jawed        |   [aamirjawed]      | [github.com/aamirjawed]
+
 ## License---------
 *******************************************************************************
 
